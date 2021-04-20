@@ -1,6 +1,6 @@
 # Spotibar
 
-<img src="https://raw.githubusercontent.com/avenom/spotibar/main/spotify.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/spotify.png">
 
 Мини-плеер Spotify для панели задач в виде скина Rainmeter
 
