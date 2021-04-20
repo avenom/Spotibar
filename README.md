@@ -1,4 +1,4 @@
-# Spotibar
+## Spotibar
 
 Мини-плеер Spotify для панели задач в виде скина Rainmeter
 
