@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/github/v/release/avenom/spotibar?label=Release"> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?label=Downloads">
 
-<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotify.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar.png">
 
 Мини-плеер Spotify для панели задач в виде скина Rainmeter
 
