@@ -1,6 +1,6 @@
 # Spotibar
 
-<img src="https://img.shields.io/github/v/release/avenom/spotibar?color=1&label=Release> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?color=1&label=Downloads">
+<img src="https://img.shields.io/github/v/release/avenom/spotibar?color=1&label=Release"> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?color=1&label=Downloads">
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar.png">
 
