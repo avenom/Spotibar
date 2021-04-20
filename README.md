@@ -10,7 +10,7 @@ Spotibar - мини-плеер Spotify для панели задач в вид�
 
 ## Установка
 
-1. Установите клиент [Spotify](https://spotify.com/ru-ru/download/windows).
+1. Установите клиент [Spotify](https://spotify.com/ru-ru/download/windows)
 2. Установите [Rainmeter 4.4 Beta](https://rainmeter.net)
 3. Установите скин [Spotibar.rmskin](http)
 
@@ -25,7 +25,7 @@ Spotibar - мини-плеер Spotify для панели задач в вид�
 
 ## Выбор плеера
 
-Помимо Spotify вы можете выбрать другой плеер из этого [списка](https://docs.rainmeter.net/manual/measures/nowplaying)
+Помимо Spotify вы можете выбрать другой плеер из этого [списка](https://docs.rainmeter.net/manual/measures/nowplaying), откройте в Rainmeter скин Spotibar > Spotibar.ini, нажмите "Изменить", найдите и замените следующую строку
 
 ```bash
 PlayerName=Spotify
