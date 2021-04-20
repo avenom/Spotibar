@@ -27,15 +27,15 @@ Spotibar - мини-плеер Spotify для панели задач в вид�
 
 Помимо Spotify вы можете выбрать другой плеер из этого [списка](https://docs.rainmeter.net/manual/measures/nowplaying)
 
-Полностью поддерживаемые плееры:
-AIMP: `PlayerName=AIMP`
-foobar2000: PlayerName=CAD
-iTunes: PlayerName=iTunes
-J. River Media Center and Media Jukebox: PlayerName=CAD
-MediaMonkey: PlayerName=MediaMonkey
-MusicBee: PlayerName=CAD
-Winamp: PlayerName=Winamp
-WMP: PlayerName=WMP
+### Полностью поддерживаемые плееры:
+* AIMP: `PlayerName=AIMP`
+* foobar2000: PlayerName=CAD
+* iTunes: PlayerName=iTunes
+* J. River Media Center and Media Jukebox: PlayerName=CAD
+* MediaMonkey: PlayerName=MediaMonkey
+* MusicBee: PlayerName=CAD
+* Winamp: PlayerName=Winamp
+* WMP: PlayerName=WMP
 
-Частично поддерживаемые плееры:
-Last.fm Client, TTPlayer, OpenPandora, Zune: PlayerName=WLM
+### Частично поддерживаемые плееры:
+* Last.fm Client, TTPlayer, OpenPandora, Zune: PlayerName=WLM
