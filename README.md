@@ -1,6 +1,6 @@
 # Spotibar
 
-<a href="https://ibb.co/3Rb6686"><img src="https://i.ibb.co/hYNQQnQ/spotify.png" alt="spotify" border="0"></a>
+<img src="https://i.ibb.co/2ZrVVLV/spotify.png">
 
 Spotibar - мини-плеер Spotify для панели задач в виде скина Rainmeter.
 
