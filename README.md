@@ -9,7 +9,7 @@
 
 * Отображение текущего трека и исполнителя
 * Кнопки управления:  `Предыдущий трек` `Плей/Пауза` `Следующий трек`
-* Сворачивается в иконку <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotify.png" width="20" height="20"/>, когда Spotify не запущен
+* Сворачивается в иконку <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotify-green.png" width="20" height="20"/>, когда Spotify не запущен
 
 ## Установка
 
