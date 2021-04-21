@@ -9,12 +9,12 @@
 
 * Отображение текущего трека и исполнителя
 * Кнопки управления:  `Предыдущий трек` `Плей/Пауза` `Следующий трек`
-* Сворачивается в иконку <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotify-green.png" width="20" height="20"/>, когда Spotify не запущен
+* Сворачивается в иконку, когда Spotify не запущен
 
 ## Установка
 
 1. Установите клиент [Spotify](https://spotify.com/ru-ru/download/windows)
-2. Установите [Rainmeter 4.4 Beta](https://rainmeter.net)
+2. Установите [Rainmeter 4.4 Beta](http
 3. Установите скин [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.1)
 
 Дополнительно можете установить [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker), в нем можно настроить управление громкостью колесом мыши при наведении на панель задач.
