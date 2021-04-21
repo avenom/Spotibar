@@ -17,7 +17,7 @@
 2. Установите [Rainmeter 4.4 Beta](https://rainmeter.net)
 3. Установите скин [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.1)
 
-Дополнительно можете установить [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker), в нем можно настроить управление громкостью колесом мыши при наведении на панель задач.
+Дополнительно можете установить [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker), в котором можно настроить управление громкостью колесом мыши при наведении на панель задач.
 
 ## Настройка
 
