@@ -10,7 +10,7 @@
 
 * Отображение текущего трека и исполнителя
 * Кнопки управления:  `Предыдущий трек` `Плей/Пауза` `Следующий трек`
-* Сворачивается в иконку <img src="https://i.ibb.co/TgfGKGR/Spotify.png" width="20" height="20"/>, когда Spotify не запущен
+* Сворачивается в иконку <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotify.png" width="20" height="20"/>, когда Spotify не запущен
 
 ## Установка
 
@@ -27,7 +27,7 @@
 * [x] Перетаскивание
 * [ ] Некликабельно
 
-## Выбор плеера
+## Другие плееры
 
 Помимо Spotify вы можете выбрать другой плеер из этого [списка](https://docs.rainmeter.net/manual/measures/nowplaying), откройте в Rainmeter скин Spotibar > Spotibar.ini, нажмите `Изменить`, найдите и замените следующую строку:
 
