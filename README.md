@@ -1,6 +1,6 @@
 # Spotibar
-
-<img src="https://img.shields.io/github/v/release/avenom/spotibar?color=1&label=Release"> <img src="https://img.shields.io/badge/Rainmeter-4.4-brightgreen"> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?color=1&label=Downloads">
+<img src="https://img.shields.io/github/v/release/avenom/spotibar?color=1&label=Release"> <img src="https://img.shields.io/badge/Rainmeter-4.4-brightgreen"> <img src="https://img.shields.io/badge/Windows-7%2B-brightgreen
+"> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?color=1&label=Downloads">
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotibar.png">
 
