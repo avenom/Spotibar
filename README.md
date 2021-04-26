@@ -1,7 +1,7 @@
 # Spotibar
 <a href="https://github.com/avenom/spotibar/releases/tag/v0.2"><img src="https://img.shields.io/github/v/release/avenom/spotibar?color=1&label=Release"></a> <a href="https://rainmeter.net"><img src="https://img.shields.io/badge/Rainmeter-4.4-brightgreen"></a> <img src="https://img.shields.io/badge/Windows-7%2B-brightgreen"> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?color=1&label=Downloads">
 
-<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotibar-835.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotibar835.png">
 
 Мини-плеер Spotify для панели задач в виде скина Rainmeter
 
