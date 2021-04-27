@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotibartest.gif">
 
-### Spotibar Mini:
+## Spotibar Mini:
 
 * Запуск Spotify по иконке, сворачивается обратно в иконку, когда Spotify не запущен
 * Клик по текущему треку и исполнителю открывает окно Spotify*
@@ -13,7 +13,7 @@
 
 ###### * Для правильной работы сворачивайте окно Spotify, а не закрывайте.
 
-### Spotibar Max:
+## Spotibar Max:
 
 * Кнопки управления при наведении на обложку:  `Лайк` `Повторять трек` `Перемешать треки`
 * Прогресс трека и версия с фоном адаптируются под цвет обложки
