@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotibartest.gif">
 
-## Возможности
-
 ### Spotibar Mini:
 
 * Запуск Spotify по иконке, сворачивается обратно в иконку, когда Spotify не запущен
