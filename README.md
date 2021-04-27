@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/Spotibartest.gif">
 
-Мини-плеер Spotify для панели задач в виде скина Rainmeter
-
 ## Возможности
 
 ### Spotibar Mini:
