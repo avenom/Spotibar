@@ -20,7 +20,7 @@
 * Регулировка громкости колесом мыши при наведении на плеер, правый клик выключает звук
 * Прогресс трека и версия с фоном адаптируются под цвет обложки
 
-* <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/SpotibarBGtest2.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/%40Resources/Images/SpotibarBGtest2.png">
 
 ###### * Для правильной работы сворачивайте окно Spotify, а не закрывайте.
 
