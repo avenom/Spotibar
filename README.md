@@ -44,7 +44,7 @@
 
 ``` spicetify backup apply ```
 
-###### ** Предупреждение: Spicetify использует предыдущий интерфейс Spotify, после установки он откатит новый интерфейс Spotify к предыдущей версии. Восстановить Spotify можно только после удаления Spicetify командой `spicetify restore`, но Spotibar Max работать не будет.
+###### ** Предупреждение: Spicetify откатит новый интерфейс Spotify к предыдущей версии. Восстановить Spotify можно только после удаления Spicetify командой `spicetify restore`, но Spotibar Max работать не будет.
 
 ## Настройка
 
