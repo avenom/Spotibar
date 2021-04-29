@@ -47,8 +47,6 @@ Open the search bar in Windows 10, type PowerShell, and run the Windows PoweShel
 
 ###### ** Warning: Spicetify will roll back the new Spotify interface to the previous version. Spotify can only be restored after uninstalling Spicetify with the command `spicetify restore`, but Spotibar Max will not work.
 
-###### ** Предупреждение: Spicetify откатит новый интерфейс Spotify к предыдущей версии. Восстановить Spotify можно только после удаления Spicetify командой `spicetify restore`, но Spotibar Max работать не будет.
-
 ## Settings
 
 Close all standart Rainmeter skins illustro and choose Spotibar > Spotibar Mini.ini.
