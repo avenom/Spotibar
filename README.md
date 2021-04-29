@@ -27,7 +27,7 @@
 
 ## Installation
 
-1. Install [Spotify](https://spotify.com/ru-ru/download/windows)
+1. Install [Spotify](https://www.spotify.com/download/windows)
 2. Install [Rainmeter 4.4](https://rainmeter.net)
 3. Install skin [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.3), restart Rainmeter and activate the skin
 
