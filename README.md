@@ -9,15 +9,15 @@
 
 * Launch Spotify on icon, minimizes back to icon when Spotify is not running
 * Clicking on the current track and artist opens the Spotify window*
-* Control buttons: `Previous track` `Play/Pause`` Next track`
+* Control buttons: `Previous track` `Play/Pause` `Next track`
 * Volume control by mouse wheel when hovering over the player, right click turns off the sound
 
 ## Spotibar Max
 
 * Launch Spotify on icon, minimizes back to icon when Spotify is not running
 * Clicking on the current track and artist opens the Spotify window*
-* Control buttons: `Previous track` `Play/Pause`` Next track`
-* Control buttons when hovering over the cover: `Like` `Repeat track``Shuffle tracks`
+* Control buttons: `Previous track` `Play/Pause` `Next track`
+* Control buttons when hovering over the cover: `Like` `Repeat track` `Shuffle tracks`
 * Volume control by mouse wheel when hovering over the player, right click turns off the sound
 * Track progress and background version adapt to cover color
 
@@ -53,9 +53,9 @@ Open the search bar in Windows 10, type PowerShell, and run the Windows PoweShel
 
 Close all standart Rainmeter skins illustro and choose Spotibar > Spotibar Mini.ini.
 
-* [x] Всегда поверх окон
-* [x] Перетаскивание
-* [ ] Некликабельно
+* [x] Stay topmost
+* [x] Draggable
+* [ ] Click through
 
 You can turn on game mode in Rainmeter to turn off the skin in full screen mode.
 
