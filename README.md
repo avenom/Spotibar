@@ -31,7 +31,7 @@
 2. Install [Rainmeter 4.4](https://rainmeter.net)
 3. Install skin [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.3), restart Rainmeter and activate the skin
 
-#### Spotibar Max requires installation Spicetify to work
+#### Spotibar Max requires installation Spicetify to work:
 
 Open the search bar in Windows 10, type PowerShell, and run the Windows PoweShell. In the terminal window, run the following commands in order:
 
