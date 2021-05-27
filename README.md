@@ -31,7 +31,7 @@
 2. Install [Rainmeter 4.4](https://rainmeter.net)
 3. Install skin [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.3), restart Rainmeter and activate the skin
 
-#### Spotibar Max requires installation Spicetify to work**
+#### Spotibar Max requires installation Spicetify to work
 
 Open the search bar in Windows 10, type PowerShell, and run the Windows PoweShell. In the terminal window, run the following commands in order:
 
@@ -44,8 +44,6 @@ Open the search bar in Windows 10, type PowerShell, and run the Windows PoweShel
 ``` spicetify config inject_css 0 replace_colors 0 ```
 
 ``` spicetify backup apply ```
-
-###### ** Warning: Spicetify will roll back the new Spotify interface to the previous version. Spotify can only be restored after uninstalling Spicetify with the command `spicetify restore`, but Spotibar Max will not work.
 
 ## Settings
 
@@ -83,7 +81,7 @@ You can turn on game mode in Rainmeter to turn off the skin in full screen mode.
 2. Установите [Rainmeter 4.4](https://rainmeter.net)
 3. Установите скин [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.3), перезапустите Rainmeter и активируйте скин
 
-#### Для работы Spotibar Max требуется установка Spicetify**:
+#### Для работы Spotibar Max требуется установка Spicetify:
 
 В поиске Windows 10 наберите PowerShell и запустите Windows PoweShell. В открывшемся окне терминала выполните по порядку следующие команды:
 
@@ -96,8 +94,6 @@ You can turn on game mode in Rainmeter to turn off the skin in full screen mode.
 ``` spicetify config inject_css 0 replace_colors 0 ```
 
 ``` spicetify backup apply ```
-
-###### ** Предупреждение: Spicetify откатит новый интерфейс Spotify к предыдущей версии. Восстановить Spotify можно только после удаления Spicetify командой `spicetify restore`, но Spotibar Max работать не будет.
 
 ## Настройка
 
