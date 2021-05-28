@@ -45,6 +45,8 @@ Open the search bar in Windows 10, type PowerShell, and run the Windows PoweShel
 
 ``` spicetify backup apply ```
 
+If Spotify client is updated, then you must uninstall Spicetify with command `spicetify restore` and reinstall Spicetify.
+
 ## Settings
 
 Close all standart Rainmeter skins illustro and choose Spotibar > Spotibar Mini.ini.
