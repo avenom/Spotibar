@@ -97,6 +97,8 @@ You can turn on game mode in Rainmeter to turn off the skin in full screen mode.
 
 ``` spicetify backup apply ```
 
+Если клиент Spotify обновится, то вы должны удалить Spicetify командой `spicetify restore` и установить Spicetify заново.
+
 ## Настройка
 
 Закройте в Rainmeter все стандартные скины illustro и выберите Spotibar > Spotibar Mini.ini.
